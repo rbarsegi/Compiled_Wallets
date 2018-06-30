@@ -1,0 +1,3 @@
+conffile="trittium2.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/trittium-cli"
