@@ -1,0 +1,3 @@
+conffile="bulwark.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/bulwark-cli"
