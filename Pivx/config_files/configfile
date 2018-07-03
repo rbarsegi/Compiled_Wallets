@@ -1,0 +1,3 @@
+conffile="pivx.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/pivx-cli"
