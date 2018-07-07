@@ -1,3 +1,3 @@
-conffile="pivx.conf"
+conffile="smartcash.conf"
 datapath="/var/ALQO/data"
-clipath="/var/ALQO/pivx-cli"
+clipath="smartcash-cli"
