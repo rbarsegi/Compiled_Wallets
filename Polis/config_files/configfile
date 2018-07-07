@@ -1,3 +1,3 @@
-conffile="polis.conf"
+conffile="smartcash.conf"
 datapath="/var/ALQO/data"
-clipath="/var/ALQO/polis-cli"
+clipath="smartcash-cli"
