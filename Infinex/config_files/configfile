@@ -1,0 +1,3 @@
+conffile="infinex.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/infinex-cli"
