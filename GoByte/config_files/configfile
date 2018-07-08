@@ -1,0 +1,3 @@
+conffile="gobyte.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/gobyte-cli"
