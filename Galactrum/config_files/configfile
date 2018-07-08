@@ -1,0 +1,3 @@
+conffile="galactrum.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/galactrum-cli"
