@@ -1,0 +1,3 @@
+conffile="genesisx.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/genesisx-cli"
