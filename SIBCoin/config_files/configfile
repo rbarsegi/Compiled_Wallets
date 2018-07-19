@@ -1,0 +1,3 @@
+conffile="sibcoin.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/sibcoin-cli"
