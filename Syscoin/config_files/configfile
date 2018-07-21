@@ -1,0 +1,3 @@
+conffile="syscoin.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/syscoin-cli"
