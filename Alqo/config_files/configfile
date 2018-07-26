@@ -1,0 +1,3 @@
+conffile="alqo.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/alqo-cli"
