@@ -1,3 +1,3 @@
 conffile="Rupee.conf"
 datapath="/var/ALQO/data"
-clipath="Rupeed"
+clipath="/var/ALQO/Rupeed"
