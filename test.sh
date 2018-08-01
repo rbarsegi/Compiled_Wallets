@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /root/testfile
+sudo touch /root/testfile
