@@ -1,0 +1,3 @@
+conffile="send.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/send-cli"
