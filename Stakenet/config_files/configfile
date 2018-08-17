@@ -1,3 +1,3 @@
 conffile="xsn.conf"
 datapath="/var/ALQO/data"
-clipath="/var/ALQO/xsnd"
+clipath="/var/ALQO/xsn-cli"
