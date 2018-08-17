@@ -1,0 +1,3 @@
+conffile="phore.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/phore-cli"
