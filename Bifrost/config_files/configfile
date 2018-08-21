@@ -1,0 +1,3 @@
+conffile="bifrost.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/bifrost-cli"
