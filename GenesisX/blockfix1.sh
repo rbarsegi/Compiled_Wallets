@@ -1,9 +1,9 @@
 #!/bin/bash
 
-blockcount="$(/var/ALQO/genesisx-cli --datadir=/var/ALQO/data getblockhash 208000)"
+blockcount="$(/var/ALQO/genesisx-cli --datadir=/var/ALQO/data getblockhash 208104)"
 echo $blockcount
 
-if [ "$blockcount" != "a05a71e57024728643e8e352bb96c113c787c06e131ccf257bbea21f34d7ddea" ]
+if [ "$blockcount" != "55eb1124ea462c1eea3d88f3b6dc96eb7194eb48edb626fd3ca25f4ae13b47da" ]
 then
   echo "no match";
   sudo mv /var/ALQO/genesisxd /root/genesisxd
