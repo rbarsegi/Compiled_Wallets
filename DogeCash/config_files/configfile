@@ -1,0 +1,3 @@
+conffile="dogecash.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/dogecash-cli"
