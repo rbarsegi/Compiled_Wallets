@@ -1,0 +1,3 @@
+conffile="giant.conf"
+datapath="/var/ALQO/data"
+clipath="/var/ALQO/giant-cli"
